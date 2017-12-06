@@ -4,7 +4,7 @@ All notable changes to `dollarshaveclub/stickybits` will be documented in this f
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
-## [2.0.15] - [2.0.7] - 2017-06-17
+## [2.0.14] - [2.0.7] - 2017-06-17
 
 > Sorry if this is incorrect. I'm not update to date on changelogs.
 
